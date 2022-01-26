@@ -1,3 +1,7 @@
-/* build time:Wed Jan 26 2022 22:31:51 GMT+0800 (中国标准时间)*/
-.el-textarea__inner{min-height:200px!important}
-/* rebuild by neat */
+/* Twikoo评论框高度 */
+
+.el-textarea__inner {
+    /* min-height: 75px; */
+    /* height: 75px; */
+    min-height: 200px !important;
+}
