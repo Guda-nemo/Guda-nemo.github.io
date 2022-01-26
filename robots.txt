@@ -1,0 +1,15 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /tags/
+Allow: /categories/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://www.arklibrary.cn/sitemap.xml
+Sitemap: https://www.arklibrary.cn/baidusitemap.xml
